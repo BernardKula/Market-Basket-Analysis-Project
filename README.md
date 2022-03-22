@@ -17,6 +17,6 @@ be required to perform the following:<br />
 ● Find frequent itemsets<br />
 ● Generate association rules<br />
 ● Perform metric interpretation and provide recommendation
-Dataset<br />
-Study your data carefully before implementing your solution.<br />
+
+## Dataset<br />
 Dataset URL = https://bit.ly/30A2gHO
